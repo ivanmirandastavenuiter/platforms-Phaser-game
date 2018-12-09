@@ -2,6 +2,15 @@
 
 A platforms game created with Phaser 3, ES6, Node.js and Webpack
 
+Instrucciones para instalación:
+
+```node.js
+npm install
+```
+```node.js
+npm start
+```
+
 ## 1. Estructura
 
 El proyecto sigue la estructura del juego RPG visto en clase. Se divide en las siguientes secciones:
