@@ -144,6 +144,7 @@ Capturas:
 
 ![pic4](https://github.com/ivanmirandastavenuiter/platforms-Phaser-game/blob/master/pics/pic4.png)
 
+![pic9](https://github.com/ivanmirandastavenuiter/platforms-Phaser-game/blob/master/pics/pic9.png)
 
 
 
